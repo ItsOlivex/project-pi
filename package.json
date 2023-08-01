@@ -1,0 +1,23 @@
+{
+  "name": "project-pi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsOlivex/project-pi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsOlivex/project-pi/issues"
+  },
+  "homepage": "https://github.com/ItsOlivex/project-pi#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
